@@ -151,13 +151,7 @@
               }
             }
           }
-        }
-      ]
-    },
-    {
-      "title": "Dealer Component",
-      "id": "blocks",
-      "components": [
+        },
         {
           "title": "Dealer",
           "id": "dealer",
